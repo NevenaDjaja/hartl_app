@@ -1,7 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample app following the Michael Hartl tutorial
+
+Ruby version 2.0.0
+Rails version 4.0.0
 
 Things you may want to cover:
 
